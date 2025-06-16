@@ -4,16 +4,16 @@ Welcome to my developer universe! I'm passionate about building backend systems,
 
 ---
 
-## 🚀 My NPM Work
+## 📦 My NPM Package Stats
 
-[![npm](https://img.shields.io/npm/v/phone-number-checker-latest)](https://www.npmjs.com/package/phone-number-checker-latest)
-[![npm](https://img.shields.io/npm/dw/phone-number-checker-latest)](https://www.npmjs.com/package/phone-number-checker-latest)
+[![npm version](https://img.shields.io/npm/v/phone-number-checker-latest)](https://www.npmjs.com/package/phone-number-checker-latest)
+[![Weekly Downloads](https://img.shields.io/npm/dw/phone-number-checker-latest)](https://www.npmjs.com/package/phone-number-checker-latest)
+[![Total Downloads](https://img.shields.io/npm/dt/phone-number-checker-latest)](https://www.npmjs.com/package/phone-number-checker-latest)
 
 ---
 
 ## 📊 GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alimehmet&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimehmet&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=alimehmet&theme=tokyonight)
 
