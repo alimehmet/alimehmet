@@ -4,6 +4,20 @@ Welcome to my developer universe! I'm passionate about building backend systems,
 
 ---
 
+## 💬 Let's Connect
+
+Feel free to explore my repositories or connect with me on [LinkedIn](https://linkedin.com/in/maliongan)
+
+---
+
+## 📊 GitHub Insights
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimehmet&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=alimehmet&theme=tokyonight)
+
+---
+
 ## 📦 My NPM Package Stats
 
 [![npm version](https://img.shields.io/npm/v/phone-number-checker-latest)](https://www.npmjs.com/package/phone-number-checker-latest)
@@ -12,22 +26,10 @@ Welcome to my developer universe! I'm passionate about building backend systems,
 
 ---
 
-## 📊 GitHub Insights
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimehmet&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=alimehmet&theme=tokyonight)
-
----
 
 ## 🏆 Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alimehmet&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 💬 Let's Connect
-
-Feel free to explore my repositories or connect with me on [LinkedIn](https://linkedin.com/in/maliongan)
 
 
 <!--
