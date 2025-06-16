@@ -1,20 +1,12 @@
 # 👨‍💻 Mehmet Ali Ongan
 
-Welcome to my developer universe! I'm passionate about building backend systems, optimizing data, and shipping tools that help other developers grow. 💡
+Welcome to my developer universe! I'm passionate about building backend systems and shipping tools that help other developers grow. 💡
 
 ---
 
 ## 💬 Let's Connect
 
-Feel free to explore my repositories or connect with me on [LinkedIn](https://linkedin.com/in/maliongan)
-
----
-
-## 📊 GitHub Insights
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimehmet&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=alimehmet&theme=tokyonight)
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/maliongan)
 
 ---
 
@@ -26,10 +18,11 @@ Feel free to explore my repositories or connect with me on [LinkedIn](https://li
 
 ---
 
+## 📊 GitHub Insights
 
-## 🏆 Achievements
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimehmet&layout=compact&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alimehmet&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Streak](https://streak-stats.demolab.com?user=alimehmet&theme=tokyonight)
 
 
 <!--
